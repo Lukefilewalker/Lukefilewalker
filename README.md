@@ -23,11 +23,9 @@ I’m looking to connect and collaborate on:
 - Educational resources for Native students and allies.
 
 ## 📫 How to Reach Me
-- 🌐 Visit my website: [www.lukefilewalker.com](https://www.lukefilewalker.com)  
 - 🐘 Mastodon: [@lukefilewalker@techhub.social](https://techhub.social/@lukefilewalker)  
 - 🌌 Bluesky: [@lukefilewalker.bsky.social](https://bsky.app/profile/lukefilewalker.bsky.social)  
-- ⚡ Nostr: `npub1v7m4auxrw8t42rl95ju77kqnffamr4wd4xqnz2tug6nu4j2ufwpql9rt9y`  
-- 🐦 X (Twitter): [@lukefilewalker](https://twitter.com/lukefilewalker)   
+- ⚡ Nostr: `npub1v7m4auxrw8t42rl95ju77kqnffamr4wd4xqnz2tug6nu4j2ufwpql9rt9y`
 
 ---
 
